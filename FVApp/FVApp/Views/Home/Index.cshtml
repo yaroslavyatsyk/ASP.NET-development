@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Future Value Page";
+}
+@model FutureValueModel
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<form asp-action = "Index" method = "post">
+    <div>
+    <label>Present Value</label>
+    <input asp-for = "PresentValue" />
+    
+    </div>
+<div>
+    <label>Interest Rate</label>
+    <input asp-for = "InterestRate" />
+</div>
+<div>
+    <label>Period</label>
+    <input asp-for = "Period" />
+</div>
+<div>
+    <label>Future Value</label>
+    <label>@ViewBag.FV.ToString("c2")</label>
+</div>
+<div>
+    <button type = "submit">Calculate</button>
+    <a asp-action = "Index">Clear</a>
+</div>
+<div asp-validation-summary = "All"/>
+</form>
+
