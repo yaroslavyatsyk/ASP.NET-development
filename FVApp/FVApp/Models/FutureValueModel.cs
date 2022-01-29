@@ -25,7 +25,7 @@ namespace FVApp.Models
 
                 for (int i = 0; i < Period; i++)
                 {
-                    futureValue = (futureValue + PresentValue.Value) * (1 + InterestRate.Value);
+                    futureValue = (futureValue + PresentValue.Value) * (1 + InterestRate.Value / 100);
                 }
                 return futureValue;
             }
