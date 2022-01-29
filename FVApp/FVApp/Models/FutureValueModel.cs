@@ -12,7 +12,7 @@ namespace FVApp.Models
         public int? Period { get; set; }
 
         [Required(ErrorMessage = "Should be valid interest rate")]
-        [Range (0,100,ErrorMessage = "Can not be negative or greater than 100")]
+        [Range (0.0,100,ErrorMessage = "Can not be negative or greater than 100")]
         public decimal? InterestRate { get; set; }
 
         public decimal CalculateFV()
