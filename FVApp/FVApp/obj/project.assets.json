@@ -6238,11 +6238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yaroslav\\source\\repos\\FVApp\\FVApp\\FVApp.csproj",
+      "projectUniqueName": "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\FVApp\\FVApp\\FVApp.csproj",
       "projectName": "FVApp",
-      "projectPath": "C:\\Users\\Yaroslav\\source\\repos\\FVApp\\FVApp\\FVApp.csproj",
+      "projectPath": "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\FVApp\\FVApp\\FVApp.csproj",
       "packagesPath": "C:\\Users\\Yaroslav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yaroslav\\source\\repos\\FVApp\\FVApp\\obj\\",
+      "outputPath": "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\FVApp\\FVApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

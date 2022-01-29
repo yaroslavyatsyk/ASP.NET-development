@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BzZQTljXH926Jy86c71MXuz0DKkLWcDaGsy4Ktyy00ACqbFcghsX7u6O6U0SnlHW4ElnqrlhLC2lWlQMrsT0Uw==",
+  "dgSpecHash": "ubpeO479X/5W6MtciZWRzl0tQoqnoTsKH+uwq4I11GMAvspxnb7dei9LwB6b/7gXydhH8RCxYotwGYKJQgS+pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yaroslav\\source\\repos\\FVApp\\FVApp\\FVApp.csproj",
+  "projectFilePath": "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\FVApp\\FVApp\\FVApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yaroslav\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Yaroslav\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
