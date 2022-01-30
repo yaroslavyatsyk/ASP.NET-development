@@ -227,4 +227,3 @@ C:\Users\Yaroslav\source\repos\ASP.NET-development\FVApp\FVApp\obj\Debug\net5.0\
 C:\Users\Yaroslav\source\repos\ASP.NET-development\FVApp\FVApp\obj\Debug\net5.0\ref\FVApp.dll
 C:\Users\Yaroslav\source\repos\ASP.NET-development\FVApp\FVApp\obj\Debug\net5.0\FVApp.pdb
 C:\Users\Yaroslav\source\repos\ASP.NET-development\FVApp\FVApp\obj\Debug\net5.0\FVApp.genruntimeconfig.cache
-C:\Users\Yaroslav\source\repos\ASP.NET-development\FVApp\FVApp\obj\Debug\net5.0\FVApp.csproj.AssemblyReference.cache
