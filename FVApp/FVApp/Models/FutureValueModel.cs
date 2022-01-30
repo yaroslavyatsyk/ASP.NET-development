@@ -8,11 +8,11 @@ namespace FVApp.Models
         public decimal? PresentValue { get; set; }
 
         [Required(ErrorMessage = "Should be year")]
-        [Range(1,10, ErrorMessage = "Can not be zero or greater than 10")]
+        [Range(1,10, ErrorMessage = "The period can not be zero or greater than 10")]
         public int? Period { get; set; }
 
         [Required(ErrorMessage = "Should be valid interest rate")]
-        [Range (0.0,100,ErrorMessage = "Can not be negative or greater than 100")]
+        [Range (0.0,100,ErrorMessage = "The rate can not be negative or greater than 100")]
         public decimal? InterestRate { get; set; }
 
         public decimal CalculateFV()
