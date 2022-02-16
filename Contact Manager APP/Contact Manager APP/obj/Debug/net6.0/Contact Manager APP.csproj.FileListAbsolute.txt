@@ -261,4 +261,5 @@ C:\Users\Yaroslav\source\repos\ASP.NET-development\Contact Manager APP\Contact M
 C:\Users\Yaroslav\source\repos\ASP.NET-development\Contact Manager APP\Contact Manager APP\obj\Debug\net6.0\Contact Manager APP.genruntimeconfig.cache
 C:\Users\Yaroslav\source\repos\ASP.NET-development\Contact Manager APP\Contact Manager APP\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\Yaroslav\source\repos\ASP.NET-development\Contact Manager APP\Contact Manager APP\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Yaroslav\source\repos\ASP.NET-development\Contact Manager APP\Contact Manager APP\obj\Debug\net6.0\Contact Manager APP.csproj.AssemblyReference.cache
+C:\Users\Yaroslav\source\repos\ASP.NET-development\Contact Manager App\Contact Manager APP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yaroslav\source\repos\ASP.NET-development\Contact Manager App\Contact Manager APP\obj\Debug\net6.0\Contact Manager APP.csproj.AssemblyReference.cache

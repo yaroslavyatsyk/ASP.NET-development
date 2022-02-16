@@ -1,9 +1,9 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "d23aac26-5bcf-4def-af1b-303cefa5a0e6": {
-      "ProjectGuid": "d23aac26-5bcf-4def-af1b-303cefa5a0e6",
-      "DisplayName": "ConsoleApp1",
+    "4e72e119-b415-4e10-bb0c-7a975173f1a4": {
+      "ProjectGuid": "4e72e119-b415-4e10-bb0c-7a975173f1a4",
+      "DisplayName": "Contact Manager APP",
       "ColorIndex": 0
     },
     "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {

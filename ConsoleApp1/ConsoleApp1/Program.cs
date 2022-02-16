@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace ConsoleApp1
 {
@@ -6,35 +7,17 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string[] names1 = new string[] { "Ava", "Emma", "Olivia" };
-            string[] names2 = new string[] { "Olivia", "Sophia", "Emma" };
+            string[] names1 = new string[] { "apple", "banana"};
+            string[] names2 = new string[] { "Kivi", "apple", "banana" };
 
-            string[] mergedNames = new string[names1.Length + names2.Length];
+            string[] mergedNames = names1.Concat(names2).Distinct().ToArray();
 
-            int i = 0;
-            int j = 0;
-            int k = 0;
-
-            while(i < names1.Length && j < names2.Length)
-            {
-                if(names1[i] != names2[j])
-                {
-                    mergedNames[k] = names1[i];
-                    i++;
-                   
-                }
-                else if(names2[j] != names1[i])
-                {
-                    mergedNames[k] = names2[j];
-                    j++;
-                }
-                k++;
-            }
-
-            foreach(var name in mergedNames)
+            
+            foreach(string name in mergedNames)
             {
                 Console.WriteLine(name);
             }
+           
         }
     }
 }

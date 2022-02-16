@@ -12,25 +12,25 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Contact_Manager_APP.Migrations
 {
     [DbContext(typeof(ContactContext))]
-    [Migration("20220204020641_Initial")]
+    [Migration("20220216155349_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "6.0.1")
+                .HasAnnotation("ProductVersion", "6.0.2")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
             modelBuilder.Entity("Contact_Manager_APP.Models.Category", b =>
                 {
-                    b.Property<int>("CategoryID")
+                    b.Property<int?>("CategoryID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryID"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int?>("CategoryID"), 1L, 1);
 
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
@@ -102,7 +102,7 @@ namespace Contact_Manager_APP.Migrations
                         {
                             ContactID = 1,
                             CategoryID = 1,
-                            DateAdded = new DateTime(2022, 2, 3, 21, 6, 40, 901, DateTimeKind.Local).AddTicks(1606),
+                            DateAdded = new DateTime(2022, 2, 16, 10, 53, 48, 736, DateTimeKind.Local).AddTicks(1602),
                             Email = "Yaroslav.Yatsyk@hotmail.com",
                             FirstName = "Yaroslav",
                             LastName = "Yatsyk",
@@ -112,7 +112,7 @@ namespace Contact_Manager_APP.Migrations
                         {
                             ContactID = 2,
                             CategoryID = 2,
-                            DateAdded = new DateTime(2022, 2, 3, 21, 6, 40, 901, DateTimeKind.Local).AddTicks(1649),
+                            DateAdded = new DateTime(2022, 2, 16, 10, 53, 48, 736, DateTimeKind.Local).AddTicks(1648),
                             FirstName = "Ostap",
                             LastName = "Sulyk",
                             Phone = "647-784-5444"

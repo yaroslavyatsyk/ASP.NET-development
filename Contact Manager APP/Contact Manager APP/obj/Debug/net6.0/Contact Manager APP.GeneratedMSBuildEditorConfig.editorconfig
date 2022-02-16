@@ -8,25 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Contact_Manager_APP
 build_property.RootNamespace = Contact_Manager_APP
-build_property.ProjectDir = C:\Users\Yaroslav\source\repos\ASP.NET-development\Contact Manager APP\Contact Manager APP\
+build_property.ProjectDir = C:\Users\Yaroslav\source\repos\ASP.NET-development\Contact Manager App\Contact Manager APP\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Yaroslav\source\repos\ASP.NET-development\Contact Manager APP\Contact Manager APP
+build_property.MSBuildProjectDirectory = C:\Users\Yaroslav\source\repos\ASP.NET-development\Contact Manager App\Contact Manager APP
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Yaroslav/source/repos/ASP.NET-development/Contact Manager APP/Contact Manager APP/Views/Home/Index.cshtml]
+[C:/Users/Yaroslav/source/repos/ASP.NET-development/Contact Manager App/Contact Manager APP/Views/Home/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaroslav/source/repos/ASP.NET-development/Contact Manager App/Contact Manager APP/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaroslav/source/repos/ASP.NET-development/Contact Manager App/Contact Manager APP/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaroslav/source/repos/ASP.NET-development/Contact Manager App/Contact Manager APP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yaroslav/source/repos/ASP.NET-development/Contact Manager APP/Contact Manager APP/Views/_ViewImports.cshtml]
+[C:/Users/Yaroslav/source/repos/ASP.NET-development/Contact Manager App/Contact Manager APP/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yaroslav/source/repos/ASP.NET-development/Contact Manager APP/Contact Manager APP/Views/_ViewStart.cshtml]
+[C:/Users/Yaroslav/source/repos/ASP.NET-development/Contact Manager App/Contact Manager APP/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yaroslav/source/repos/ASP.NET-development/Contact Manager APP/Contact Manager APP/Views/Shared/_Layout.cshtml]
+[C:/Users/Yaroslav/source/repos/ASP.NET-development/Contact Manager App/Contact Manager APP/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ztpc8xrlyi

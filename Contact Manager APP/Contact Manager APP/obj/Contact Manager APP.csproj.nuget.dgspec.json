@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\Contact Manager APP\\Contact Manager APP\\Contact Manager APP.csproj": {}
+    "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\Contact Manager App\\Contact Manager APP\\Contact Manager APP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\Contact Manager APP\\Contact Manager APP\\Contact Manager APP.csproj": {
+    "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\Contact Manager App\\Contact Manager APP\\Contact Manager APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\Contact Manager APP\\Contact Manager APP\\Contact Manager APP.csproj",
+        "projectUniqueName": "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\Contact Manager App\\Contact Manager APP\\Contact Manager APP.csproj",
         "projectName": "Contact Manager APP",
-        "projectPath": "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\Contact Manager APP\\Contact Manager APP\\Contact Manager APP.csproj",
+        "projectPath": "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\Contact Manager App\\Contact Manager APP\\Contact Manager APP.csproj",
         "packagesPath": "C:\\Users\\Yaroslav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\Contact Manager APP\\Contact Manager APP\\obj\\",
+        "outputPath": "C:\\Users\\Yaroslav\\source\\repos\\ASP.NET-development\\Contact Manager App\\Contact Manager APP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,17 +50,17 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[6.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[6.0.2, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[6.0.2, )"
             }
           },
           "imports": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

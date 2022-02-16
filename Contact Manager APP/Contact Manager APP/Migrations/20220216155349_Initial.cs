@@ -61,12 +61,12 @@ namespace Contact_Manager_APP.Migrations
             migrationBuilder.InsertData(
                 table: "Contacts",
                 columns: new[] { "ContactID", "CategoryID", "DateAdded", "Email", "FirstName", "LastName", "Organization", "Phone" },
-                values: new object[] { 1, 1, new DateTime(2022, 2, 3, 21, 6, 40, 901, DateTimeKind.Local).AddTicks(1606), "Yaroslav.Yatsyk@hotmail.com", "Yaroslav", "Yatsyk", null, "647-891-1161" });
+                values: new object[] { 1, 1, new DateTime(2022, 2, 16, 10, 53, 48, 736, DateTimeKind.Local).AddTicks(1602), "Yaroslav.Yatsyk@hotmail.com", "Yaroslav", "Yatsyk", null, "647-891-1161" });
 
             migrationBuilder.InsertData(
                 table: "Contacts",
                 columns: new[] { "ContactID", "CategoryID", "DateAdded", "Email", "FirstName", "LastName", "Organization", "Phone" },
-                values: new object[] { 2, 2, new DateTime(2022, 2, 3, 21, 6, 40, 901, DateTimeKind.Local).AddTicks(1649), null, "Ostap", "Sulyk", null, "647-784-5444" });
+                values: new object[] { 2, 2, new DateTime(2022, 2, 16, 10, 53, 48, 736, DateTimeKind.Local).AddTicks(1648), null, "Ostap", "Sulyk", null, "647-784-5444" });
 
             migrationBuilder.CreateIndex(
                 name: "IX_Contacts_CategoryID",
